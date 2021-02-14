@@ -30,6 +30,6 @@ Abaixo a fórmula:
 
 - 44% das pessoas que receberam probabilidade 50% de morrer realmente morreram.
 
-- %3 das pessoas que receberam probabilidade abaixo de 50% morreram.
+- 3% das pessoas que receberam probabilidade abaixo de 50% morreram.
 
 
